@@ -1,0 +1,1 @@
+Subirei o Projeto Scrum, para poder fazer as melhorias e atualizações em conjunto com o Will e quem quiser ajudar
