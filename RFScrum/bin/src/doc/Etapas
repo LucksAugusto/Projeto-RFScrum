@@ -1,0 +1,21 @@
+/*
+Etapas
+Chat Cliente X 2 - OK
+Chat Servidor X 2 - OK
+Entender DAO - OK
+VER VIDEO TABLE -
+VER VIDEO COLEVATI - 
+ANALISAR O BD
+DEFINIR TABLES - 
+INICIAR - 
+MONTAR BANCO - 
+*/
+
+/*
+DAO = ENTITY <depNEstrut CONTROL depEstrut> INTERFACEDAO <depNEstrut DAO depEstrut> BD
+*/
+
+/*
+Bassi - Construir as DAOS
+Luckinhas - Construir o BurnDown os Chats e as telas Programador e Scrum Master e TaskList
+*/
